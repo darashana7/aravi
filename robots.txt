@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.aaravii.com/sitemap.xml
+
+# Block access to sensitive files
+Disallow: /css/
+Disallow: /js/
+Disallow: /admin/
+Disallow: /*.php$
+Disallow: /*.sql$
+
+# Allow search engines to crawl CSS and JS for better indexing
+Allow: /css/style.css
+Allow: /js/script.js
+
+# Crawl delay (optional)
+Crawl-delay: 1
+
+# Additional rules for specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Block specific bots if needed
+# User-agent: BadBot
+# Disallow: /
