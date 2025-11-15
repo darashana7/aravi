@@ -1,0 +1,21 @@
+# Logo Implementation Guide
+
+## Logo File Requirements
+- **Formats**: PNG, JPG, or SVG preferred
+- **Size**: Recommended 200x80px for horizontal logos
+- **File Name**: Use clear naming like `logo.png`, `aaravii-logo.png`, etc.
+- **Location**: Upload to `aaravii-construction/images/` folder
+
+## Implementation Plan
+Once logo is uploaded, it will be added to:
+1. **Header Navigation**: Logo with company name and tagline
+2. **Footer**: Company logo in footer branding section
+3. **All Pages**: Consistent across homepage, about, services, projects, contact
+4. **Mobile Responsive**: Logo will scale appropriately on smaller screens
+
+## Styling Features
+- Proper spacing and alignment
+- Hover effects
+- Link functionality (logo links to homepage)
+- Professional appearance
+- Background transparency support

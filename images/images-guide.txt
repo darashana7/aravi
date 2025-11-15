@@ -1,0 +1,54 @@
+# Placeholder Images Directory
+
+This directory should contain the following images for the Aaravii Construction website:
+
+## Required Images:
+1. **project1.jpg** - Modern Villa in Hassan
+   - High-quality exterior photo of a contemporary villa
+   - Recommended size: 800x600px
+   - Alt text: "Modern luxury villa with contemporary architecture"
+
+2. **project2.jpg** - Commercial Complex
+   - Professional photo of a commercial building
+   - Recommended size: 800x600px
+   - Alt text: "Multi-story commercial complex building"
+
+3. **project3.jpg** - Renovated Office Space
+   - Interior renovation photo showing modern office space
+   - Recommended size: 800x600px
+   - Alt text: "Modern renovated office interior space"
+
+4. **project4.jpg** - Luxury Apartment Complex
+   - Aerial or exterior view of apartment building
+   - Recommended size: 800x600px
+   - Alt text: "Luxury apartment complex exterior view"
+
+5. **hero-bg.jpg** - Hero section background
+   - High-quality construction/building image
+   - Recommended size: 1920x1080px
+   - Alt text: "Construction site with modern building"
+
+6. **construction-team.jpg** - Team working
+   - Photo of construction workers or team
+   - Recommended size: 800x600px
+   - Alt text: "Professional construction team at work"
+
+7. **favicon.ico** - Website favicon
+   - Small company logo/icon
+   - Recommended size: 32x32px
+   - Should include company name or logo
+
+## Image Guidelines:
+- All images should be optimized for web (compressed)
+- Use high-quality, professional photography
+- Include proper alt text for accessibility
+- Maintain consistent aspect ratios
+- Ensure images are relevant to construction industry
+
+## Image Sources:
+- Use your own project photos
+- Purchase stock photos from sites like Shutterstock, Getty Images
+- Use free resources like Unsplash, Pexels (with proper licensing)
+- Consider hiring a professional photographer for key images
+
+Note: Replace these placeholder references with actual images before going live.
